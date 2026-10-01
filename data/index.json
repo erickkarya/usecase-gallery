@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "idUsecase": "UC-0001",
+    "namaUsecase": "3D Urban Heritage",
+    "kontributor": "Mas Fadli Mas Raihan",
+    "instansi": "DCKTRP",
+    "teknologi": [
+      "ArcGIS",
+      "Cesium",
+      "Unity"
+    ],
+    "deskripsi": "merupakan peta 3 dimensi DKI Jakarta tahun 2023",
+    "kontak": "raihan@gmail.com",
+    "thumbnailUrl": "https://github.com/user-attachments/assets/d97abda6-babf-405f-9efd-cdf904b98f5c",
+    "tangkapanLayar": [
+      "https://github.com/user-attachments/assets/5b336e94-f7f4-4702-9c62-dfede7b56d13"
+    ],
+    "linkAplikasi": "https://jakartasatu.jakarta.go.id/geoportal/peta/3d",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "indikaaaries",
+    "dibuatPada": "2026-10-01T01:48:02Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/1"
+  }
+]
