@@ -42,7 +42,7 @@ tangkapan layar (opsional, boleh beberapa), link aplikasi, link video, dan konta
 <!-- GALERI:START -->
 | ID | Karya | Kontributor | Instansi | Teknologi |
 |---|---|---|---|---|
-| UC-0001 | [3D Urban Heritage](data/UC-0001.json) | Mas Fadli Mas Raihan (@indikaaaries) | DCKTRP | ArcGIS, Cesium, Unity |
+
 <!-- GALERI:END -->
 
 ## Lisensi
