@@ -1,0 +1,108 @@
+name: "🏆 Tambah karya ke Galeri Use Case"
+description: Bagikan use case, prototipe, atau model Digital Twin Anda ke galeri karya anggota IDTC
+title: "[Use Case] "
+labels: ["usecase"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bagikan karya Anda — use case, prototipe, dashboard, atau model Digital Twin — ke galeri
+        anggota IDTC. Setelah formulir ini dikirim, sistem otomatis membuatkan Pull Request berisi
+        entri Anda untuk ditelaah pengurus. Anda tidak perlu membuat Pull Request sendiri.
+
+        Semua yang Anda isi di sini akan tampil publik di
+        [galeri use case](https://idtc-id.github.io/usecase-gallery/).
+
+  - type: input
+    id: nama-usecase
+    attributes:
+      label: Nama Use Case / Model Digital Twin
+      placeholder: "mis. Digital Twin Pemantauan Banjir DAS Ciliwung"
+    validations:
+      required: true
+
+  - type: input
+    id: kontributor
+    attributes:
+      label: Nama Kontributor
+      description: Nama anggota IDTC yang membuat atau membagikan karya ini.
+      placeholder: "mis. Budi Santoso"
+    validations:
+      required: true
+
+  - type: input
+    id: instansi
+    attributes:
+      label: Instansi / Organisasi
+      description: Opsional. Kosongkan bila karya ini bersifat pribadi.
+      placeholder: "mis. Universitas Indonesia"
+    validations:
+      required: false
+
+  - type: input
+    id: teknologi
+    attributes:
+      label: Teknologi yang Digunakan
+      description: Pisahkan dengan koma. Dipakai juga sebagai filter di halaman galeri.
+      placeholder: "mis. ArcGIS, Unity, Python, PostGIS"
+    validations:
+      required: true
+
+  - type: textarea
+    id: deskripsi
+    attributes:
+      label: Deskripsi Use Case
+      description: Jelaskan masalah yang diselesaikan, pendekatannya, dan manfaatnya.
+      placeholder: "Ceritakan singkat karya Anda..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: thumbnail
+    attributes:
+      label: Thumbnail
+      description: >-
+        Seret & lepas, atau tempel (paste) SATU gambar di kotak ini — GitHub akan mengunggahnya
+        otomatis dan melampirkan url-nya. Gambar ini jadi sampul kartu Anda di galeri.
+        Rasio 16:9 disarankan.
+    validations:
+      required: true
+
+  - type: textarea
+    id: tangkapan-layar
+    attributes:
+      label: Tangkapan Layar Aplikasi
+      description: >-
+        Opsional. Boleh beberapa gambar sekaligus — seret & lepas semuanya ke kotak ini.
+        Tampil sebagai galeri gambar di halaman detail karya Anda.
+    validations:
+      required: false
+
+  - type: input
+    id: link-aplikasi
+    attributes:
+      label: Link Aplikasi
+      description: Opsional. Tautan ke aplikasi, dashboard, atau demo yang bisa dibuka publik.
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: input
+    id: link-video
+    attributes:
+      label: Link Video
+      description: >-
+        Opsional. Tautan YouTube atau Vimeo akan otomatis bisa diputar langsung di halaman galeri.
+        Tautan lain tetap ditampilkan sebagai tautan biasa.
+      placeholder: "https://youtube.com/watch?v=..."
+    validations:
+      required: false
+
+  - type: input
+    id: kontak
+    attributes:
+      label: Kontak
+      description: Opsional. Surel, LinkedIn, atau kontak lain bila ingin dihubungi soal karya ini.
+      placeholder: "mis. nama@instansi.ac.id"
+    validations:
+      required: false
