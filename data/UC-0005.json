@@ -1,0 +1,22 @@
+{
+  "idUsecase": "UC-0005",
+  "namaUsecase": "Peta 3D DKI Jakarta",
+  "kontributor": "Fadhli Akbar dan Muhammad Raihan Tifaldi",
+  "instansi": "Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta",
+  "teknologi": [
+    "ArcGIS",
+    "Cesium",
+    "CityGML"
+  ],
+  "deskripsi": "Peta 3D DKI Jakarta berisi data 3D building dan non building di seluruh wilayah administrasi DKI Jakarta. Tampilan peta ini juga sudah diintegrasikan dengan titik penutup lahan sehingga setiap objek 3D sudah mempunyai keterangan nama objek dan juga peruntukan lahannya",
+  "kontak": "muhammad.raihan02@jakarta.go.id",
+  "thumbnailUrl": "https://github.com/user-attachments/assets/f963a9d8-04f4-409c-bc2a-2d611cc26a07",
+  "tangkapanLayar": [
+    "https://github.com/user-attachments/assets/46ddb7a3-6ce0-4a6c-bbda-ee845b00574a"
+  ],
+  "linkAplikasi": "https://jakartasatu.jakarta.go.id/geoportal/peta/3d",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "raihantifaldi-jkt",
+  "dibuatPada": "2026-10-01T05:38:36Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/5"
+}
