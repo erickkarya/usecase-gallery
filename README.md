@@ -42,7 +42,7 @@ tangkapan layar (opsional, boleh beberapa), link aplikasi, link video, dan konta
 <!-- GALERI:START -->
 | ID | Karya | Kontributor | Instansi | Teknologi |
 |---|---|---|---|---|
-
+| UC-0005 | [Peta 3D DKI Jakarta](data/UC-0005.json) | Fadhli Akbar dan Muhammad Raihan Tifaldi (@raihantifaldi-jkt) | Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta | ArcGIS, Cesium, CityGML |
 <!-- GALERI:END -->
 
 ## Lisensi
