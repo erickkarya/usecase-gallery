@@ -20,5 +20,272 @@
     "kontributorUsernameGithub": "raihantifaldi-jkt",
     "dibuatPada": "2026-10-01T05:38:36Z",
     "issue": "https://github.com/idtc-id/usecase-gallery/issues/5"
+  },
+  {
+    "idUsecase": "UC-0008",
+    "namaUsecase": "Tata Ruang DKI Jakarta – 3D Viewer",
+    "kontributor": "Khairul Amri",
+    "instansi": "Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta",
+    "teknologi": [
+      "ArcGIS"
+    ],
+    "masalah": "",
+    "deskripsi": "Penampil 3D (3D Viewer) pada portal Tata Ruang Jakarta, dibangun dengan ArcGIS Instant Apps.",
+    "kontak": "",
+    "thumbnailUrl": "",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://tataruang.jakarta.go.id/portal/apps/instant/3dviewer/index.html?appid=7fba5e23c6fd459baca98ca0d4eb38fc",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/8"
+  },
+  {
+    "idUsecase": "UC-0009",
+    "namaUsecase": "Bhumi 3D Kadaster – ATR/BPN",
+    "kontributor": "Khairul Amri",
+    "instansi": "Kementerian ATR/BPN",
+    "teknologi": [
+      "Cesium"
+    ],
+    "masalah": "",
+    "deskripsi": "Web Viewer 3D Cadastre milik ATR/BPN untuk memvisualisasikan data kadaster 3D. Tersedia katalog data 3D per wilayah, data 2D, topografi, pengukuran, dan analisis bayangan.",
+    "kontak": "",
+    "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0009.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://bhumi.atrbpn.go.id/3dkadaster/",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/9"
+  },
+  {
+    "idUsecase": "UC-0010",
+    "namaUsecase": "Volcano3D – Kembar Digital Gunung Berapi (GeoTwinverse)",
+    "kontributor": "Khairul Amri",
+    "instansi": "GeoTwinverse",
+    "teknologi": [
+      "Cesium",
+      "React"
+    ],
+    "masalah": "",
+    "deskripsi": "Kembar digital gunung berapi (monitoring time series) untuk Gunung Agung dan Gunung Kelud, dengan panel cuaca, kualitas udara, serta kebakaran/termal, dan mode tampilan terrain, ortho, dan Gaussian Splat.",
+    "kontak": "",
+    "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0010.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://volcano3d.geotwinverse.ai/",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/10"
+  },
+  {
+    "idUsecase": "UC-0011",
+    "namaUsecase": "Digital Naga",
+    "kontributor": "Khairul Amri",
+    "instansi": "ParaKloud",
+    "teknologi": [
+      "Cesium"
+    ],
+    "masalah": "",
+    "deskripsi": "Digital Twin Kota Naga oleh ParaKloud: peta bahaya, riwayat bencana, cuaca dan prakiraan hujan 7 hari, jaringan jalan, tata guna lahan, pengukuran, landmark, serta masukan warga.",
+    "kontak": "",
+    "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0011.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://digital-naga.onrender.com/",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/11"
+  },
+  {
+    "idUsecase": "UC-0012",
+    "namaUsecase": "Riset Digital Twin Kampus – Fakultas Teknik UGM",
+    "kontributor": "Khairul Amri",
+    "instansi": "Geo AI Twinverse",
+    "teknologi": [],
+    "masalah": "",
+    "deskripsi": "Video “Digital Twin Fakultas Teknik UGM” dari kanal Geo AI Twinverse — contoh riset Digital Twin skala kampus.",
+    "kontak": "",
+    "thumbnailUrl": "https://i.ytimg.com/vi/zsC6MkQ5XI0/maxresdefault.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "",
+    "linkVideo": "https://www.youtube.com/watch?v=zsC6MkQ5XI0",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/12"
+  },
+  {
+    "idUsecase": "UC-0013",
+    "namaUsecase": "Blender BIM / Remesh – Outer Shell of a Complete House",
+    "kontributor": "Khairul Amri",
+    "instansi": "",
+    "teknologi": [
+      "Blender"
+    ],
+    "masalah": "",
+    "deskripsi": "Video tutorial Blender “Outer Shell of a complete house (as an idea)” dari kanal About SketchUp by ms — rujukan teknik pemodelan cangkang bangunan (BIM / remesh).",
+    "kontak": "",
+    "thumbnailUrl": "https://i.ytimg.com/vi/93-Dh7XRa8o/maxresdefault.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "",
+    "linkVideo": "https://www.youtube.com/watch?v=93-Dh7XRa8o",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/13"
+  },
+  {
+    "idUsecase": "UC-0014",
+    "namaUsecase": "Kementerian PU – SMART BIM",
+    "kontributor": "Khairul Amri",
+    "instansi": "Kementerian Pekerjaan Umum",
+    "teknologi": [
+      "BIM",
+      "Leaflet"
+    ],
+    "masalah": "",
+    "deskripsi": "Platform digital SMART BIM untuk memantau, mengelola, dan mengintegrasikan data Building Information Modelling (BIM) pada proyek infrastruktur di seluruh Indonesia. Mencakup Open CDE, Dashboard BIM, PU Connect, dan Digital Twin Pusdatin.",
+    "kontak": "",
+    "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0014.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://bim.pu.go.id/",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/14"
+  },
+  {
+    "idUsecase": "UC-0015",
+    "namaUsecase": "Kementerian PU – PU Connect",
+    "kontributor": "Khairul Amri",
+    "instansi": "Kementerian Pekerjaan Umum",
+    "teknologi": [
+      "Cesium",
+      "BIM"
+    ],
+    "masalah": "",
+    "deskripsi": "PU Connect: platform integrasi 3D berbasis BIM yang memuat model 3D, data IoT, CCTV, informasi bangunan, dan navigasi dalam satu tampilan, termasuk manajemen fasilitas (facility management).",
+    "kontak": "",
+    "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0015.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://cim.pu.go.id/",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/15"
+  },
+  {
+    "idUsecase": "UC-0016",
+    "namaUsecase": "ARCA – Test Case Digital Twin Area Kementerian PU",
+    "kontributor": "Khairul Amri",
+    "instansi": "Paperclip.id",
+    "teknologi": [
+      "MapLibre",
+      "deck.gl",
+      "Cesium"
+    ],
+    "masalah": "",
+    "deskripsi": "Test case Digital Twin untuk area Kementerian PU: penampil bangunan multi-LOD (LOD 1.3) dengan pilihan penampil MapLibre, Deck.gl, dan Cesium. Klik bangunan untuk melihat detail dan informasi geometri, lengkap dengan statistik waktu muat, footprint, fitur, dan vertex.",
+    "kontak": "",
+    "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0016.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://paperclip.id/arca/",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/16"
+  },
+  {
+    "idUsecase": "UC-0017",
+    "namaUsecase": "Gaea Engine – Digital Twin Prototype",
+    "kontributor": "Khairul Amri",
+    "instansi": "LangitBumi",
+    "teknologi": [
+      "Three.js"
+    ],
+    "masalah": "",
+    "deskripsi": "Prototipe GAEA Digital Twin Engine dari LangitBumi: membangun terrain 3D dari berkas DEM (GeoTIFF, ASCII Grid, heightmap) dengan ortho opsional, dilengkapi modul peta & geodata, langit & waktu, cuaca, model 3D, animasi 3D, dan scene maker.",
+    "kontak": "",
+    "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0017.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://langitbumi.co.id/gaea-engine",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/17"
+  },
+  {
+    "idUsecase": "UC-0018",
+    "namaUsecase": "LangitBumi – Jakarta Digital Twin / Flood Demo",
+    "kontributor": "Khairul Amri",
+    "instansi": "LangitBumi",
+    "teknologi": [
+      "GAEA Engine"
+    ],
+    "masalah": "",
+    "deskripsi": "Demo GAEA Engine untuk DKI Jakarta dan sekitarnya: terrain survey dari heightmap BPN dengan ortho 3,23 m; klik permukaan untuk membaca elevasi.",
+    "kontak": "",
+    "thumbnailUrl": "",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://langitbumi.co.id/jkt-demo",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/18"
+  },
+  {
+    "idUsecase": "UC-0019",
+    "namaUsecase": "Tata Ruang Jakarta – Spatial / 3D Prototype",
+    "kontributor": "Khairul Amri",
+    "instansi": "Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta",
+    "teknologi": [
+      "ArcGIS"
+    ],
+    "masalah": "",
+    "deskripsi": "Purwarupa aplikasi “Ada apa di bawahmu?” pada portal Tata Ruang Jakarta, berbasis ArcGIS Web Application, untuk memetakan infrastruktur bawah tanah sebagai dasar pekerjaan konstruksi sebelum melakukan penggalian.",
+    "kontak": "",
+    "thumbnailUrl": "",
+    "tangkapanLayar": [],
+    "linkAplikasi": "https://tataruang.jakarta.go.id/portal/apps/webappviewer/index.html?id=9c0073a9126045e88fe860b9bb3a378d",
+    "linkVideo": "",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/19"
+  },
+  {
+    "idUsecase": "UC-0020",
+    "namaUsecase": "Drone Docking – Pilot Digital Twin Aware",
+    "kontributor": "Khairul Amri",
+    "instansi": "",
+    "teknologi": [],
+    "masalah": "",
+    "deskripsi": "Cuplikan video (Instagram Reel) tentang pilot Drone Docking untuk Digital Twin Aware.",
+    "kontak": "",
+    "thumbnailUrl": "",
+    "tangkapanLayar": [],
+    "linkAplikasi": "",
+    "linkVideo": "https://www.instagram.com/reel/Dcc3ek6JTxJ/",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/20"
+  },
+  {
+    "idUsecase": "UC-0021",
+    "namaUsecase": "Leica CityMapper – Model Kota 3D Denver",
+    "kontributor": "Khairul Amri",
+    "instansi": "Leica Geosystems",
+    "teknologi": [
+      "Leica CityMapper"
+    ],
+    "masalah": "",
+    "deskripsi": "Video “3D City Model of Denver captured with Leica CityMapper” dari Leica Geosystems — contoh teknologi pemetaan 3D yang menjadi dasar model kota dan Digital Twin.",
+    "kontak": "",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0Fx6RSHdIM4/maxresdefault.jpg",
+    "tangkapanLayar": [],
+    "linkAplikasi": "",
+    "linkVideo": "https://www.youtube.com/watch?v=0Fx6RSHdIM4",
+    "kontributorUsernameGithub": "geoholix",
+    "dibuatPada": "2026-10-04T09:11:09Z",
+    "issue": "https://github.com/idtc-id/usecase-gallery/issues/21"
   }
 ]

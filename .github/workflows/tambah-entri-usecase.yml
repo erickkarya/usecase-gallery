@@ -62,6 +62,7 @@ jobs:
                 .split(",")
                 .map(s => s.trim())
                 .filter(Boolean),
+              masalah: data["Masalah yang Diselesaikan dengan Digital Twin"] || "",
               deskripsi: data["Deskripsi Use Case"] || "",
               kontak: data["Kontak"] || "",
               thumbnailUrl: ambilGambar(data["Thumbnail"])[0] || "",

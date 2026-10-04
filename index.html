@@ -386,7 +386,7 @@ function tersaring(){
     if (inst && e.instansi !== inst) return false;
     if (teknoAktif.size && !(e.teknologi || []).some(t => teknoAktif.has(t))) return false;
     if (!q) return true;
-    const heap = [e.namaUsecase, e.kontributor, e.instansi, e.deskripsi, (e.teknologi || []).join(" ")]
+    const heap = [e.namaUsecase, e.kontributor, e.instansi, e.masalah, e.deskripsi, (e.teknologi || []).join(" ")]
       .join(" ").toLowerCase();
     return heap.includes(q);
   });
@@ -479,6 +479,7 @@ function bukaDetail(e){
       <div class="teknos">
         ${(e.teknologi || []).map(t => `<span class="tekno" style="color:${warnaTekno(t)}">${escapeHtml(t)}</span>`).join("")}
       </div>
+      ${e.masalah ? `<h4>Masalah yang diselesaikan</h4><p class="deskripsi">${escapeHtml(e.masalah)}</p>` : ""}
       <h4>Deskripsi</h4>
       <p class="deskripsi">${escapeHtml(e.deskripsi)}</p>
       ${tembakan.length ? `<h4>Tangkapan layar</h4><div class="tembak">${

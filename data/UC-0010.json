@@ -1,0 +1,20 @@
+{
+  "idUsecase": "UC-0010",
+  "namaUsecase": "Volcano3D – Kembar Digital Gunung Berapi (GeoTwinverse)",
+  "kontributor": "Khairul Amri",
+  "instansi": "GeoTwinverse",
+  "teknologi": [
+    "Cesium",
+    "React"
+  ],
+  "masalah": "",
+  "deskripsi": "Kembar digital gunung berapi (monitoring time series) untuk Gunung Agung dan Gunung Kelud, dengan panel cuaca, kualitas udara, serta kebakaran/termal, dan mode tampilan terrain, ortho, dan Gaussian Splat.",
+  "kontak": "",
+  "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0010.jpg",
+  "tangkapanLayar": [],
+  "linkAplikasi": "https://volcano3d.geotwinverse.ai/",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/10"
+}

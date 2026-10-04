@@ -1,0 +1,19 @@
+{
+  "idUsecase": "UC-0013",
+  "namaUsecase": "Blender BIM / Remesh – Outer Shell of a Complete House",
+  "kontributor": "Khairul Amri",
+  "instansi": "",
+  "teknologi": [
+    "Blender"
+  ],
+  "masalah": "",
+  "deskripsi": "Video tutorial Blender “Outer Shell of a complete house (as an idea)” dari kanal About SketchUp by ms — rujukan teknik pemodelan cangkang bangunan (BIM / remesh).",
+  "kontak": "",
+  "thumbnailUrl": "https://i.ytimg.com/vi/93-Dh7XRa8o/maxresdefault.jpg",
+  "tangkapanLayar": [],
+  "linkAplikasi": "",
+  "linkVideo": "https://www.youtube.com/watch?v=93-Dh7XRa8o",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/13"
+}

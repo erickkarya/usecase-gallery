@@ -49,10 +49,21 @@ body:
       required: true
 
   - type: textarea
+    id: masalah
+    attributes:
+      label: Masalah yang Diselesaikan dengan Digital Twin
+      description: >-
+        Persoalan nyata apa yang ingin dijawab karya ini, dan mengapa Digital Twin dipilih
+        sebagai pendekatannya? Tulis dari sisi masalahnya dulu, bukan fiturnya.
+      placeholder: "mis. Banjir di bantaran sungai sering terlambat diketahui karena data tinggi muka air tersebar di banyak instansi..."
+    validations:
+      required: true
+
+  - type: textarea
     id: deskripsi
     attributes:
       label: Deskripsi Use Case
-      description: Jelaskan masalah yang diselesaikan, pendekatannya, dan manfaatnya.
+      description: Jelaskan solusinya — bagaimana karya ini bekerja, pendekatannya, dan manfaatnya.
       placeholder: "Ceritakan singkat karya Anda..."
     validations:
       required: true

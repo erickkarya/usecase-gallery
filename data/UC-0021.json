@@ -1,0 +1,19 @@
+{
+  "idUsecase": "UC-0021",
+  "namaUsecase": "Leica CityMapper – Model Kota 3D Denver",
+  "kontributor": "Khairul Amri",
+  "instansi": "Leica Geosystems",
+  "teknologi": [
+    "Leica CityMapper"
+  ],
+  "masalah": "",
+  "deskripsi": "Video “3D City Model of Denver captured with Leica CityMapper” dari Leica Geosystems — contoh teknologi pemetaan 3D yang menjadi dasar model kota dan Digital Twin.",
+  "kontak": "",
+  "thumbnailUrl": "https://i.ytimg.com/vi/0Fx6RSHdIM4/maxresdefault.jpg",
+  "tangkapanLayar": [],
+  "linkAplikasi": "",
+  "linkVideo": "https://www.youtube.com/watch?v=0Fx6RSHdIM4",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/21"
+}

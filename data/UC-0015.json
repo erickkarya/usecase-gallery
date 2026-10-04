@@ -1,0 +1,20 @@
+{
+  "idUsecase": "UC-0015",
+  "namaUsecase": "Kementerian PU – PU Connect",
+  "kontributor": "Khairul Amri",
+  "instansi": "Kementerian Pekerjaan Umum",
+  "teknologi": [
+    "Cesium",
+    "BIM"
+  ],
+  "masalah": "",
+  "deskripsi": "PU Connect: platform integrasi 3D berbasis BIM yang memuat model 3D, data IoT, CCTV, informasi bangunan, dan navigasi dalam satu tampilan, termasuk manajemen fasilitas (facility management).",
+  "kontak": "",
+  "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0015.jpg",
+  "tangkapanLayar": [],
+  "linkAplikasi": "https://cim.pu.go.id/",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/15"
+}

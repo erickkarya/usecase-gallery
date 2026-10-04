@@ -1,0 +1,19 @@
+{
+  "idUsecase": "UC-0009",
+  "namaUsecase": "Bhumi 3D Kadaster – ATR/BPN",
+  "kontributor": "Khairul Amri",
+  "instansi": "Kementerian ATR/BPN",
+  "teknologi": [
+    "Cesium"
+  ],
+  "masalah": "",
+  "deskripsi": "Web Viewer 3D Cadastre milik ATR/BPN untuk memvisualisasikan data kadaster 3D. Tersedia katalog data 3D per wilayah, data 2D, topografi, pengukuran, dan analisis bayangan.",
+  "kontak": "",
+  "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0009.jpg",
+  "tangkapanLayar": [],
+  "linkAplikasi": "https://bhumi.atrbpn.go.id/3dkadaster/",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/9"
+}

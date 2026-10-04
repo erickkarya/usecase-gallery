@@ -1,0 +1,19 @@
+{
+  "idUsecase": "UC-0011",
+  "namaUsecase": "Digital Naga",
+  "kontributor": "Khairul Amri",
+  "instansi": "ParaKloud",
+  "teknologi": [
+    "Cesium"
+  ],
+  "masalah": "",
+  "deskripsi": "Digital Twin Kota Naga oleh ParaKloud: peta bahaya, riwayat bencana, cuaca dan prakiraan hujan 7 hari, jaringan jalan, tata guna lahan, pengukuran, landmark, serta masukan warga.",
+  "kontak": "",
+  "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0011.jpg",
+  "tangkapanLayar": [],
+  "linkAplikasi": "https://digital-naga.onrender.com/",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/11"
+}

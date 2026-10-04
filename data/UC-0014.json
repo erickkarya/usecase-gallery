@@ -1,0 +1,20 @@
+{
+  "idUsecase": "UC-0014",
+  "namaUsecase": "Kementerian PU – SMART BIM",
+  "kontributor": "Khairul Amri",
+  "instansi": "Kementerian Pekerjaan Umum",
+  "teknologi": [
+    "BIM",
+    "Leaflet"
+  ],
+  "masalah": "",
+  "deskripsi": "Platform digital SMART BIM untuk memantau, mengelola, dan mengintegrasikan data Building Information Modelling (BIM) pada proyek infrastruktur di seluruh Indonesia. Mencakup Open CDE, Dashboard BIM, PU Connect, dan Digital Twin Pusdatin.",
+  "kontak": "",
+  "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0014.jpg",
+  "tangkapanLayar": [],
+  "linkAplikasi": "https://bim.pu.go.id/",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/14"
+}

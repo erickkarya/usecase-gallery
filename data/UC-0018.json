@@ -1,0 +1,19 @@
+{
+  "idUsecase": "UC-0018",
+  "namaUsecase": "LangitBumi – Jakarta Digital Twin / Flood Demo",
+  "kontributor": "Khairul Amri",
+  "instansi": "LangitBumi",
+  "teknologi": [
+    "GAEA Engine"
+  ],
+  "masalah": "",
+  "deskripsi": "Demo GAEA Engine untuk DKI Jakarta dan sekitarnya: terrain survey dari heightmap BPN dengan ortho 3,23 m; klik permukaan untuk membaca elevasi.",
+  "kontak": "",
+  "thumbnailUrl": "",
+  "tangkapanLayar": [],
+  "linkAplikasi": "https://langitbumi.co.id/jkt-demo",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/18"
+}

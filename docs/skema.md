@@ -10,7 +10,8 @@ formulir Issue. Nomor `UC-XXXX` diambil dari nomor issue, jadi tidak pernah bent
 | **Nama Kontributor** | Teks | Nama anggota IDTC yang membuat/membagikan karya | Ya |
 | **Instansi / Organisasi** | Teks | Dipakai juga sebagai filter di galeri | Tidak |
 | **Teknologi yang Digunakan** | Teks, pisah koma | Disimpan sebagai daftar; jadi chip warna sekaligus filter | Ya |
-| **Deskripsi Use Case** | Teks panjang | Masalah yang diselesaikan, pendekatan, manfaat | Ya |
+| **Masalah yang Diselesaikan dengan Digital Twin** | Teks panjang | Persoalan nyata yang dijawab karya ini dan alasan memilih Digital Twin; tampil sebagai bagian tersendiri di halaman detail | Ya |
+| **Deskripsi Use Case** | Teks panjang | Solusinya: cara kerja, pendekatan, manfaat | Ya |
 | **Thumbnail** | Gambar | Satu gambar sampul kartu, rasio 16:9 disarankan | Ya |
 | **Tangkapan Layar Aplikasi** | Gambar | Boleh beberapa; tampil sebagai galeri di halaman detail | Tidak |
 | **Link Aplikasi** | URL | Tautan aplikasi/dashboard/demo | Tidak |
@@ -40,6 +41,7 @@ layanan lain tetap disimpan dan ditampilkan sebagai tombol **Tonton video** bias
   "kontributor": "Budi Santoso",
   "instansi": "Universitas Indonesia",
   "teknologi": ["ArcGIS", "Python", "PostGIS"],
+  "masalah": "Banjir di bantaran sungai sering terlambat diketahui karena data tinggi muka air tersebar di banyak instansi...",
   "deskripsi": "Model kembaran digital untuk memantau tinggi muka air...",
   "kontak": "budi@contoh.ac.id",
   "thumbnailUrl": "https://github.com/user-attachments/assets/...",

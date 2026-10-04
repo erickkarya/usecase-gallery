@@ -1,0 +1,19 @@
+{
+  "idUsecase": "UC-0019",
+  "namaUsecase": "Tata Ruang Jakarta – Spatial / 3D Prototype",
+  "kontributor": "Khairul Amri",
+  "instansi": "Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta",
+  "teknologi": [
+    "ArcGIS"
+  ],
+  "masalah": "",
+  "deskripsi": "Purwarupa aplikasi “Ada apa di bawahmu?” pada portal Tata Ruang Jakarta, berbasis ArcGIS Web Application, untuk memetakan infrastruktur bawah tanah sebagai dasar pekerjaan konstruksi sebelum melakukan penggalian.",
+  "kontak": "",
+  "thumbnailUrl": "",
+  "tangkapanLayar": [],
+  "linkAplikasi": "https://tataruang.jakarta.go.id/portal/apps/webappviewer/index.html?id=9c0073a9126045e88fe860b9bb3a378d",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/19"
+}

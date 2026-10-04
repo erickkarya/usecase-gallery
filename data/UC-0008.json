@@ -1,0 +1,19 @@
+{
+  "idUsecase": "UC-0008",
+  "namaUsecase": "Tata Ruang DKI Jakarta – 3D Viewer",
+  "kontributor": "Khairul Amri",
+  "instansi": "Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta",
+  "teknologi": [
+    "ArcGIS"
+  ],
+  "masalah": "",
+  "deskripsi": "Penampil 3D (3D Viewer) pada portal Tata Ruang Jakarta, dibangun dengan ArcGIS Instant Apps.",
+  "kontak": "",
+  "thumbnailUrl": "",
+  "tangkapanLayar": [],
+  "linkAplikasi": "https://tataruang.jakarta.go.id/portal/apps/instant/3dviewer/index.html?appid=7fba5e23c6fd459baca98ca0d4eb38fc",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/8"
+}

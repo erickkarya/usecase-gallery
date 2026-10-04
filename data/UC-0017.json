@@ -1,0 +1,19 @@
+{
+  "idUsecase": "UC-0017",
+  "namaUsecase": "Gaea Engine – Digital Twin Prototype",
+  "kontributor": "Khairul Amri",
+  "instansi": "LangitBumi",
+  "teknologi": [
+    "Three.js"
+  ],
+  "masalah": "",
+  "deskripsi": "Prototipe GAEA Digital Twin Engine dari LangitBumi: membangun terrain 3D dari berkas DEM (GeoTIFF, ASCII Grid, heightmap) dengan ortho opsional, dilengkapi modul peta & geodata, langit & waktu, cuaca, model 3D, animasi 3D, dan scene maker.",
+  "kontak": "",
+  "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0017.jpg",
+  "tangkapanLayar": [],
+  "linkAplikasi": "https://langitbumi.co.id/gaea-engine",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-04T09:11:09Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/17"
+}
