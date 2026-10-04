@@ -24,7 +24,7 @@
   {
     "idUsecase": "UC-0008",
     "namaUsecase": "Tata Ruang DKI Jakarta – 3D Viewer",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta",
     "teknologi": [
       "ArcGIS"
@@ -43,7 +43,7 @@
   {
     "idUsecase": "UC-0009",
     "namaUsecase": "Bhumi 3D Kadaster – ATR/BPN",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "Kementerian ATR/BPN",
     "teknologi": [
       "Cesium"
@@ -62,7 +62,7 @@
   {
     "idUsecase": "UC-0010",
     "namaUsecase": "Volcano3D – Kembar Digital Gunung Berapi (GeoTwinverse)",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "GeoTwinverse",
     "teknologi": [
       "Cesium",
@@ -82,7 +82,7 @@
   {
     "idUsecase": "UC-0011",
     "namaUsecase": "Digital Naga",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "ParaKloud",
     "teknologi": [
       "Cesium"
@@ -101,7 +101,7 @@
   {
     "idUsecase": "UC-0012",
     "namaUsecase": "Riset Digital Twin Kampus – Fakultas Teknik UGM",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "Geo AI Twinverse",
     "teknologi": [],
     "masalah": "",
@@ -118,7 +118,7 @@
   {
     "idUsecase": "UC-0013",
     "namaUsecase": "Blender BIM / Remesh – Outer Shell of a Complete House",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "",
     "teknologi": [
       "Blender"
@@ -137,7 +137,7 @@
   {
     "idUsecase": "UC-0014",
     "namaUsecase": "Kementerian PU – SMART BIM",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "Kementerian Pekerjaan Umum",
     "teknologi": [
       "BIM",
@@ -157,7 +157,7 @@
   {
     "idUsecase": "UC-0015",
     "namaUsecase": "Kementerian PU – PU Connect",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "Kementerian Pekerjaan Umum",
     "teknologi": [
       "Cesium",
@@ -177,7 +177,7 @@
   {
     "idUsecase": "UC-0016",
     "namaUsecase": "ARCA – Test Case Digital Twin Area Kementerian PU",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "Paperclip.id",
     "teknologi": [
       "MapLibre",
@@ -198,7 +198,7 @@
   {
     "idUsecase": "UC-0017",
     "namaUsecase": "Gaea Engine – Digital Twin Prototype",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "LangitBumi",
     "teknologi": [
       "Three.js"
@@ -217,7 +217,7 @@
   {
     "idUsecase": "UC-0018",
     "namaUsecase": "LangitBumi – Jakarta Digital Twin / Flood Demo",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "LangitBumi",
     "teknologi": [
       "GAEA Engine"
@@ -236,7 +236,7 @@
   {
     "idUsecase": "UC-0019",
     "namaUsecase": "Tata Ruang Jakarta – Spatial / 3D Prototype",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta",
     "teknologi": [
       "ArcGIS"
@@ -255,7 +255,7 @@
   {
     "idUsecase": "UC-0020",
     "namaUsecase": "Drone Docking – Pilot Digital Twin Aware",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "",
     "teknologi": [],
     "masalah": "",
@@ -272,7 +272,7 @@
   {
     "idUsecase": "UC-0021",
     "namaUsecase": "Leica CityMapper – Model Kota 3D Denver",
-    "kontributor": "Khairul Amri",
+    "kontributor": "Perlu diperbarui",
     "instansi": "Leica Geosystems",
     "teknologi": [
       "Leica CityMapper"

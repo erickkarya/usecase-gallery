@@ -44,20 +44,20 @@ tangkapan layar (opsional, boleh beberapa), link aplikasi, link video, dan konta
 | ID | Karya | Kontributor | Instansi | Teknologi |
 |---|---|---|---|---|
 | UC-0005 | [Peta 3D DKI Jakarta](data/UC-0005.json) | Fadhli Akbar dan Muhammad Raihan Tifaldi (@raihantifaldi-jkt) | Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta | ArcGIS, Cesium, CityGML |
-| UC-0008 | [Tata Ruang DKI Jakarta – 3D Viewer](data/UC-0008.json) | Khairul Amri (@geoholix) | Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta | ArcGIS |
-| UC-0009 | [Bhumi 3D Kadaster – ATR/BPN](data/UC-0009.json) | Khairul Amri (@geoholix) | Kementerian ATR/BPN | Cesium |
-| UC-0010 | [Volcano3D – Kembar Digital Gunung Berapi (GeoTwinverse)](data/UC-0010.json) | Khairul Amri (@geoholix) | GeoTwinverse | Cesium, React |
-| UC-0011 | [Digital Naga](data/UC-0011.json) | Khairul Amri (@geoholix) | ParaKloud | Cesium |
-| UC-0012 | [Riset Digital Twin Kampus – Fakultas Teknik UGM](data/UC-0012.json) | Khairul Amri (@geoholix) | Geo AI Twinverse |  |
-| UC-0013 | [Blender BIM / Remesh – Outer Shell of a Complete House](data/UC-0013.json) | Khairul Amri (@geoholix) | — | Blender |
-| UC-0014 | [Kementerian PU – SMART BIM](data/UC-0014.json) | Khairul Amri (@geoholix) | Kementerian Pekerjaan Umum | BIM, Leaflet |
-| UC-0015 | [Kementerian PU – PU Connect](data/UC-0015.json) | Khairul Amri (@geoholix) | Kementerian Pekerjaan Umum | Cesium, BIM |
-| UC-0016 | [ARCA – Test Case Digital Twin Area Kementerian PU](data/UC-0016.json) | Khairul Amri (@geoholix) | Paperclip.id | MapLibre, deck.gl, Cesium |
-| UC-0017 | [Gaea Engine – Digital Twin Prototype](data/UC-0017.json) | Khairul Amri (@geoholix) | LangitBumi | Three.js |
-| UC-0018 | [LangitBumi – Jakarta Digital Twin / Flood Demo](data/UC-0018.json) | Khairul Amri (@geoholix) | LangitBumi | GAEA Engine |
-| UC-0019 | [Tata Ruang Jakarta – Spatial / 3D Prototype](data/UC-0019.json) | Khairul Amri (@geoholix) | Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta | ArcGIS |
-| UC-0020 | [Drone Docking – Pilot Digital Twin Aware](data/UC-0020.json) | Khairul Amri (@geoholix) | — |  |
-| UC-0021 | [Leica CityMapper – Model Kota 3D Denver](data/UC-0021.json) | Khairul Amri (@geoholix) | Leica Geosystems | Leica CityMapper |
+| UC-0008 | [Tata Ruang DKI Jakarta – 3D Viewer](data/UC-0008.json) | Perlu diperbarui (@geoholix) | Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta | ArcGIS |
+| UC-0009 | [Bhumi 3D Kadaster – ATR/BPN](data/UC-0009.json) | Perlu diperbarui (@geoholix) | Kementerian ATR/BPN | Cesium |
+| UC-0010 | [Volcano3D – Kembar Digital Gunung Berapi (GeoTwinverse)](data/UC-0010.json) | Perlu diperbarui (@geoholix) | GeoTwinverse | Cesium, React |
+| UC-0011 | [Digital Naga](data/UC-0011.json) | Perlu diperbarui (@geoholix) | ParaKloud | Cesium |
+| UC-0012 | [Riset Digital Twin Kampus – Fakultas Teknik UGM](data/UC-0012.json) | Perlu diperbarui (@geoholix) | Geo AI Twinverse |  |
+| UC-0013 | [Blender BIM / Remesh – Outer Shell of a Complete House](data/UC-0013.json) | Perlu diperbarui (@geoholix) | — | Blender |
+| UC-0014 | [Kementerian PU – SMART BIM](data/UC-0014.json) | Perlu diperbarui (@geoholix) | Kementerian Pekerjaan Umum | BIM, Leaflet |
+| UC-0015 | [Kementerian PU – PU Connect](data/UC-0015.json) | Perlu diperbarui (@geoholix) | Kementerian Pekerjaan Umum | Cesium, BIM |
+| UC-0016 | [ARCA – Test Case Digital Twin Area Kementerian PU](data/UC-0016.json) | Perlu diperbarui (@geoholix) | Paperclip.id | MapLibre, deck.gl, Cesium |
+| UC-0017 | [Gaea Engine – Digital Twin Prototype](data/UC-0017.json) | Perlu diperbarui (@geoholix) | LangitBumi | Three.js |
+| UC-0018 | [LangitBumi – Jakarta Digital Twin / Flood Demo](data/UC-0018.json) | Perlu diperbarui (@geoholix) | LangitBumi | GAEA Engine |
+| UC-0019 | [Tata Ruang Jakarta – Spatial / 3D Prototype](data/UC-0019.json) | Perlu diperbarui (@geoholix) | Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta | ArcGIS |
+| UC-0020 | [Drone Docking – Pilot Digital Twin Aware](data/UC-0020.json) | Perlu diperbarui (@geoholix) | — |  |
+| UC-0021 | [Leica CityMapper – Model Kota 3D Denver](data/UC-0021.json) | Perlu diperbarui (@geoholix) | Leica Geosystems | Leica CityMapper |
 <!-- GALERI:END -->
 
 ## Lisensi
