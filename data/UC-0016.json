@@ -1,16 +1,20 @@
 {
   "idUsecase": "UC-0016",
   "namaUsecase": "ARCA – Test Case Digital Twin Area Kementerian PU",
-  "kontributor": "Perlu diperbarui",
-  "instansi": "Paperclip.id",
+  "kontributor": "Erick Karya",
+  "instansi": "Enygma.id",
   "teknologi": [
-    "MapLibre",
+    "ARCA",
+    "IFC",
+    "GeoJSON",
+    "glTF/GLB",
+    "MapLibre GL JS",
     "deck.gl",
-    "Cesium"
+    "CesiumJS"
   ],
-  "masalah": "",
-  "deskripsi": "Test case Digital Twin untuk area Kementerian PU: penampil bangunan multi-LOD (LOD 1.3) dengan pilihan penampil MapLibre, Deck.gl, dan Cesium. Klik bangunan untuk melihat detail dan informasi geometri, lengkap dengan statistik waktu muat, footprint, fitur, dan vertex.",
-  "kontak": "",
+  "masalah": "Model BIM yang kompleks tidak selalu efisien digunakan langsung dalam aplikasi GIS dan Digital Twin berbasis web. Diperlukan cara untuk menyederhanakan dan mengubahnya menjadi representasi geospasial yang tetap informatif serta dapat digunakan lintas engine visualisasi.",
+  "deskripsi": "Test case Digital Twin area Kementerian PU mendemonstrasikan pemrosesan BIM kompleks secara otomatis melalui ARCA menjadi representasi GIS-native yang lebih ringan dan siap digunakan. Hasilnya dapat dikonsumsi melalui MapLibre GL JS, deck.gl, dan CesiumJS, sekaligus mempertahankan representasi geometri detail berbasis glTF/GLB. Demonstrasi ini menunjukkan interoperabilitas hasil BIM-to-GIS pada berbagai engine visualisasi web.",
+  "kontak": "kontak@enygma.id",
   "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0016.jpg",
   "tangkapanLayar": [],
   "linkAplikasi": "https://paperclip.id/arca/",
