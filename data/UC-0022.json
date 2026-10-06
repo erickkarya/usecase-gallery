@@ -1,0 +1,21 @@
+{
+  "idUsecase": "UC-0022",
+  "namaUsecase": "Digital Twin Polusi Udara Jakarta dengan simulasi pengaruh angin dan cuaca",
+  "kontributor": "Khairul Amri",
+  "instansi": "",
+  "teknologi": [
+    "ArcGIS SDK for Javascript"
+  ],
+  "masalah": "Bagaimana mengurangi polusi udara jakarta dengan melihat kondisinya secara real-time dan historis. lalu melakukan simulasi action yang perlu dilakukan untuk mengatai polusi.",
+  "deskripsi": "1. Monitoring kondisi polutan\n2. melihat trend polusi berdasarkan waktu\n3. simulasi pergerakan angin\n4. simulasi pengurangan dampak polusi dengan penanaman pohon",
+  "kontak": "amri.geoholic@gmail.com",
+  "thumbnailUrl": "https://github.com/user-attachments/assets/8ccdd655-4824-44e6-8d57-17b8a19f3e89",
+  "tangkapanLayar": [
+    "https://github.com/user-attachments/assets/69bd19d6-3c1e-4ba3-98d0-eb33de969472"
+  ],
+  "linkAplikasi": "https://idtc-id.github.io/kualitas-udara-jakarta/",
+  "linkVideo": "",
+  "kontributorUsernameGithub": "geoholix",
+  "dibuatPada": "2026-10-06T04:15:30Z",
+  "issue": "https://github.com/idtc-id/usecase-gallery/issues/22"
+}
