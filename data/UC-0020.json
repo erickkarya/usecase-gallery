@@ -13,7 +13,7 @@
   "masalah": "Drone docking yang beroperasi di lingkungan perkotaan membutuhkan pemahaman terhadap geometri bangunan, jembatan, dan struktur di sekitarnya agar dapat bermanuver dengan lebih kontekstual. Tantangannya adalah bagaimana data Digital Twin dapat digunakan sebagai spatial awareness bagi sistem drone.",
   "deskripsi": "Pilot ini mendemonstrasikan AI-Assisted Drone Dock Platform yang menggunakan data Digital Twin sebagai spatial context. Geometri bangunan, jembatan, dan struktur lingkungan dimanfaatkan untuk meningkatkan situational awareness dan mendukung manuver drone di area operasi.",
   "kontak": "kontak@enygma.id",
-  "thumbnailUrl": "",
+  "thumbnailUrl": "https://idtc-id.github.io/usecase-gallery/assets/thumbs/UC-0020.jpg",
   "tangkapanLayar": [],
   "linkAplikasi": "",
   "linkVideo": "https://www.instagram.com/reel/Dcc3ek6JTxJ/",
